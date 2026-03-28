@@ -1,7 +1,7 @@
 # bpsmb-agro-sistem-informasi
 Sistem Informasi Pelayanan Pengujian &amp; Kalibrasi berbasis web untuk UPTD BPSMB Agro Bandung
 
-# 🏛️ Sistem Informasi Pelayanan — BPSMB Agro Bandung
+# 🏛️ Sistem Informasi Pelayanan — UPTD BPSMB Agro Bandung
 
 Aplikasi web manajemen pelayanan pengujian & kalibrasi 
 untuk UPTD BPSMB Agro Bandung, dibangun selama 
